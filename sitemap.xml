@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://elaannews.in/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://elaannews.in/</loc>
+</url>
+<url>
+<loc>https://elaannews.in/about-us/</loc>
+<lastmod>2026-01-14T08:56:06+05:30</lastmod>
+</url>
+<url>
+<loc>https://elaannews.in/bharat-rajyo-me-vigyan-ko-nahi-andha-viswas-ko-bajat-milta-hai/</loc>
+<lastmod>2026-01-14T09:59:45+05:30</lastmod>
+<image:image>
+<image:loc>https://elaannews.in/media/posts/5/gaumata-2811457_640.jpg</image:loc>
+<image:title><![CDATA[पंचगव्य योजना]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://elaannews.in/chunav-purva-ladki-bahin-kista-par-chunav-ayog-ki-rok/</loc>
+<lastmod>2026-01-14T10:05:33+05:30</lastmod>
+<image:image>
+<image:loc>https://elaannews.in/media/posts/7/Ladki-Bahid-Yojana.webp</image:loc>
+<image:title><![CDATA[क्या लाडकी बहिन योजना पर रोक लगा कर चुनाव आयोग अपनी साख दोबारा गढ़ना चाहता है?]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://elaannews.in/contact-us/</loc>
+<lastmod>2026-01-14T08:56:21+05:30</lastmod>
+</url>
+<url>
+<loc>https://elaannews.in/iran-par-khel-loktantra-ke-naam-par-samrajyawaad/</loc>
+<lastmod>2026-01-14T09:59:56+05:30</lastmod>
+<image:image>
+<image:loc>https://elaannews.in/media/posts/6/iran-war.webp</image:loc>
+<image:title><![CDATA[अमेरिका जिसने दुनिया को जलाया, वही आज़ादी का ठेकेदार भी?]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://elaannews.in/privacy-policy/</loc>
+<lastmod>2026-01-14T09:31:29+05:30</lastmod>
+</url>
+<url>
+<loc>https://elaannews.in/terms-and-conditions/</loc>
+<lastmod>2026-01-14T08:57:02+05:30</lastmod>
+</url>
+</urlset>
