@@ -3,12 +3,274 @@
     <title>Elaan News</title>
     <link href="https://elaannews.in/feed.xml" rel="self" />
     <link href="https://elaannews.in" />
-    <updated>२०२६-०९-२६T१५:३३:३९+०५:३०</updated>
+    <updated>२०२६-०९-२६T१९:२५:५७+०५:३०</updated>
     <author>
         <name>Sayyed Moinuddin</name>
     </author>
     <id>https://elaannews.in</id>
 
+    <entry>
+        <title>फैक्ट-चेकिंग गाइड: सोशल मीडिया पर फेक न्यूज और फर्जी खबरों की पहचान कैसे करें?</title>
+        <author>
+            <name>Sayyed Moinuddin</name>
+        </author>
+        <link href="https://elaannews.in/social-media-par-fake-news-ki-pehechan-kaise-kare/"/>
+        <id>https://elaannews.in/social-media-par-fake-news-ki-pehechan-kaise-kare/</id>
+        <media:content url="https://elaannews.in/media/posts/59/phaiktt-cekiNg-gaaidd.webp" medium="image" />
+            <category term="विशेष"/>
+
+        <updated>२०२६-०९-२६T१९:२५:५७+०५:३०</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://elaannews.in/media/posts/59/phaiktt-cekiNg-gaaidd.webp" alt="AI के युग में फेक न्यूज" />
+                    आपने कभी WhatsApp पर कोई ऐसी खबर देखी होगी जो बेहद चौंकाने वाली लगी हो "सरकार ने बैंक खाते बंद&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://elaannews.in/media/posts/59/phaiktt-cekiNg-gaaidd.webp" class="type:primaryImage" alt="AI के युग में फेक न्यूज" /></p>
+                <p>आपने कभी WhatsApp पर कोई ऐसी खबर देखी होगी जो बेहद चौंकाने वाली लगी हो "सरकार ने बैंक खाते बंद कर दिए!", "फलाँ नेता का निधन हो गया!", या "इस दवाई से कोरोना ठीक हो जाता है!" और आपने बिना सोचे-समझे उसे आगे शेयर कर दिया।</p>
+<p>यही है <strong>फेक न्यूज का जाल।</strong></p>
+<p>भारत में हर दिन करोड़ों लोग सोशल मीडिया पर फर्जी खबरें पढ़ते और शेयर करते हैं। Times of India की एक रिपोर्ट के अनुसार, भारत के लगभग <strong>80% पहली बार मतदान करने वाले युवा</strong> सोशल मीडिया पर फेक न्यूज का सामना करते हैं। WhatsApp, Facebook, Instagram और X (Twitter) पर झूठी खबरें सच्ची खबरों से <strong>6 गुना तेज़</strong> फैलती हैं।</p>
+<p>2026 में AI और Deepfake तकनीक ने इस समस्या को और भी गंभीर बना दिया है। अब नकली वीडियो, AI-जनित तस्वीरें और फर्जी ऑडियो क्लिप इतनी असली लगती हैं कि आम आदमी के लिए उन्हें पहचानना बेहद मुश्किल हो गया है।</p>
+<p>इस गाइड में हम आपको <strong>फेक न्यूज पहचानने के 10 आसान और प्रभावी तरीके</strong>, भारत के भरोसेमंद फैक्ट-चेक वेबसाइट्स, और AI Deepfake से बचने के उपाय बताएंगे।</p>
+<hr>
+<h2>फेक न्यूज क्या होती है? पहले समझें, फिर पहचानें</h2>
+<p><strong>फेक न्यूज</strong> यानी वह जानकारी जो जानबूझकर या अनजाने में गलत, भ्रामक या आधी-अधूरी होती है। इसे मुख्यतः दो श्रेणियों में बाँटा जाता है:</p>
+<h3>1. Misinformation (गलत सूचना)</h3>
+<p>यह वह जानकारी है जो <strong>बिना किसी बुरे इरादे के</strong> गलत तरीके से शेयर की जाती है। जैसे कोई पुरानी खबर को नई बताकर शेयर करना।</p>
+<h3>2. Disinformation (दुष्प्रचार)</h3>
+<p>यह <strong>जानबूझकर</strong> फैलाई गई झूठी जानकारी होती है किसी को नुकसान पहुँचाने, भ्रम फैलाने या राजनीतिक फायदा उठाने के लिए।</p>
+<p>इसके अलावा <strong>Malinformation</strong> भी होती है जो सच्ची जानकारी होती है, लेकिन उसे किसी को नुकसान पहुँचाने के इरादे से शेयर किया जाता है।</p>
+<hr>
+<h2>फेक न्यूज कैसे फैलती है? जानें इसके तरीके</h2>
+<p>सोशल मीडिया पर फर्जी खबरें फैलाने के कई तरीके होते हैं:</p>
+<ul>
+<li><strong>भावनात्मक हेडलाइन:</strong> डर, गुस्सा या उत्साह जगाने वाली हेडलाइन जो आपको बिना सोचे शेयर करने पर मजबूर करे।</li>
+<li><strong>पुरानी तस्वीरें/वीडियो:</strong> साल पुरानी घटनाओं की तस्वीरें नई घटना बताकर शेयर करना।</li>
+<li><strong>संदर्भ से बाहर की जानकारी:</strong> सच्ची जानकारी को गलत संदर्भ में पेश करना।</li>
+<li><strong>फर्जी वेबसाइट:</strong> असली न्यूज़ वेबसाइट जैसी दिखने वाली नकली साइटें।</li>
+<li><strong>AI Deepfake:</strong> AI से बनाए गए नकली वीडियो और ऑडियो।</li>
+<li><strong>Confirmation Bias:</strong> लोग वही खबरें शेयर करते हैं जो उनकी पहले से बनी राय को सही साबित करें।</li>
+</ul>
+<hr>
+<h2>फेक न्यूज पहचानने के 10 आसान तरीके</h2>
+<h3>1. हेडलाइन को ध्यान से पढ़ें</h3>
+<p>फेक न्यूज की हेडलाइन अक्सर बहुत <strong>सनसनीखेज, डरावनी या अविश्वसनीय</strong> होती है। अगर हेडलाइन में बहुत ज़्यादा विस्मयादिबोधक चिह्न (!!!) हों, सब कुछ CAPITAL LETTERS में लिखा हो, या खबर "तुरंत शेयर करें" जैसी अपील करे तो सावधान हो जाएं।</p>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://elaannews.in/media/posts/59/phek-nyuuj-kaise-phailtii-hai.webp" alt="फेक न्यूज कैसे फैलती है" width="1408" height="768" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://elaannews.in/media/posts/59/responsive/phek-nyuuj-kaise-phailtii-hai-xs.webp 300w ,https://elaannews.in/media/posts/59/responsive/phek-nyuuj-kaise-phailtii-hai-sm.webp 480w ,https://elaannews.in/media/posts/59/responsive/phek-nyuuj-kaise-phailtii-hai-md.webp 768w"></figure>
+<p><strong>याद रखें:</strong> असली पत्रकारिता में हेडलाइन तथ्यों पर आधारित होती है, भावनाओं पर नहीं।</p>
+<hr>
+<h3>2. खबर की तारीख जाँचें</h3>
+<p>कई बार 2-3 साल पुरानी खबरें नई बताकर वायरल की जाती हैं। खबर पढ़ने से पहले उसकी <strong>प्रकाशन तिथि</strong> ज़रूर देखें। अगर कोई तारीख नहीं दी गई है, तो यह संदेह का कारण है।</p>
+<p><strong>टिप:</strong> Google पर उस खबर के कीवर्ड सर्च करें और "Tools &gt; Any Time &gt; Past Week" फ़िल्टर लगाएं।</p>
+<hr>
+<h3>3. स्रोत की विश्वसनीयता जाँचें</h3>
+<p>खबर किस वेबसाइट या चैनल से आई है? क्या वह एक जानी-मानी, भरोसेमंद मीडिया संस्था है?</p>
+<ul>
+<li>वेबसाइट का URL ध्यान से देखें। कई फर्जी साइटें असली साइटों जैसे नाम रखती हैं जैसे "abcnews.com.co" या "ndtv-news.in"।</li>
+<li>वेबसाइट का <strong>"About Us"</strong> पेज पढ़ें।</li>
+<li>देखें कि क्या उस साइट पर <strong>Contact Information</strong> और <strong>Editorial Policy</strong> दी गई है।</li>
+</ul>
+<hr>
+<h3>4. Google Reverse Image Search करें</h3>
+<p>अगर कोई तस्वीर वायरल हो रही है, तो उसे <strong>Google Reverse Image Search</strong> से जाँचें:</p>
+<ol>
+<li>Google Images (images.google.com) पर जाएं।</li>
+<li>कैमरा आइकन पर क्लिक करें।</li>
+<li>वह तस्वीर अपलोड करें।</li>
+<li>देखें कि यह तस्वीर पहले कब और कहाँ इस्तेमाल हुई थी।</li>
+</ol>
+<p>इसी तरह <strong>TinEye.com</strong> भी एक बेहतरीन टूल है जो बताता है कि कोई तस्वीर इंटरनेट पर पहले कहाँ-कहाँ दिखी है।</p>
+<hr>
+<h3>5. एक से ज़्यादा स्रोतों से पुष्टि करें</h3>
+<p>अगर कोई बड़ी खबर है, तो वह <strong>कई विश्वसनीय मीडिया संस्थाओं</strong> में ज़रूर होगी। अगर खबर सिर्फ एक अनजान वेबसाइट या WhatsApp फॉरवर्ड में है और किसी बड़े अखबार या चैनल ने उसे कवर नहीं किया तो वह फेक होने की संभावना बहुत ज़्यादा है।</p>
+<p><strong>UNICEF की सलाह:</strong> "अगर एक ही खबर कई विश्वसनीय स्रोतों में है, तो उसके सच होने की संभावना ज़्यादा है।"</p>
+<hr>
+<h3>6. Google Fact Check Explorer का उपयोग करें</h3>
+<p>Google ने एक शानदार टूल बनाया है <strong>Google Fact Check Explorer</strong> (toolbox.google.com/factcheck/explorer)।</p>
+<p>इसमें आप किसी भी दावे या खबर के कीवर्ड डालें और देखें कि दुनिया भर के फैक्ट-चेकर्स ने उसके बारे में क्या कहा है। यह टूल हिंदी सहित कई भाषाओं में काम करता है।</p>
+<hr>
+<h3>7. वीडियो की सत्यता जाँचें</h3>
+<p>वायरल वीडियो की जाँच के लिए:</p>
+<ul>
+<li><strong>Amnesty International YouTube Data Viewer</strong> (citizenevidence.amnestyusa.org) से वीडियो की अपलोड तारीख पता करें।</li>
+<li>वीडियो के <strong>स्क्रीनशॉट</strong> लेकर Google Reverse Image Search करें।</li>
+<li><strong>InVID Verification Plugin</strong> (ब्राउज़र एक्सटेंशन) से वीडियो के मेटाडेटा की जाँच करें।</li>
+<li>वीडियो में दिखने वाले <strong>साइनबोर्ड, इमारतें या लैंडमार्क</strong> को Google Maps/Street View से मिलाएं।</li>
+</ul>
+<hr>
+<h3>8. AI Deepfake को कैसे पहचानें?</h3>
+<p>2026 में AI Deepfake सबसे बड़ी चुनौती बन गई है। एक अच्छे Gaming PC से अब 4K Deepfake वीडियो बनाए जा सकते हैं। इन्हें पहचानने के लिए ध्यान दें:</p>
+<ul>
+<li><strong>आँखें:</strong> असली इंसान हर 2-10 सेकंड में पलकें झपकाता है। AI चेहरे अक्सर बहुत कम या अस्वाभाविक तरीके से पलकें झपकाते हैं।</li>
+<li><strong>बाल और कान:</strong> AI वीडियो में बाल अक्सर एक ठोस ब्लॉक की तरह हिलते हैं, न कि अलग-अलग लटों की तरह।</li>
+<li><strong>दाँत:</strong> AI में दाँत अक्सर एक सफेद ब्लॉक जैसे दिखते हैं, उनमें प्राकृतिक अंतर नहीं होता।</li>
+<li><strong>त्वचा:</strong> AI चेहरे बहुत चिकने और मोमी दिखते हैं रोमछिद्र और बारीक रेखाएं नहीं होतीं।</li>
+<li><strong>आवाज़:</strong> AI ऑडियो में सांस लेने की आवाज़ अस्वाभाविक होती है या बिल्कुल नहीं होती।</li>
+<li><strong>सिर घुमाने पर:</strong> जब AI चेहरा साइड में घूमता है, तो जबड़ा और गर्दन का जोड़ अजीब दिखता है।</li>
+</ul>
+<hr>
+<h3>9. आँकड़ों और दावों की जाँच करें</h3>
+<p>अगर कोई खबर बड़े-बड़े आँकड़े या दावे करती है जैसे "इस दवाई से 99% लोग ठीक हो गए" या "सरकार ने 10 लाख नौकरियाँ दीं" तो उन आँकड़ों का <strong>मूल स्रोत</strong> ढूंढें।</p>
+<ul>
+<li>क्या यह सरकारी रिपोर्ट से है?</li>
+<li>क्या किसी विश्वसनीय शोध संस्था ने यह डेटा दिया है?</li>
+<li>क्या आँकड़े किसी संदर्भ से बाहर लिए गए हैं?</li>
+</ul>
+<hr>
+<h3>10. अपनी भावनाओं पर नियंत्रण रखें</h3>
+<p>फेक न्यूज बनाने वाले जानते हैं कि <strong>भावनात्मक खबरें</strong> ज़्यादा शेयर होती हैं। अगर कोई खबर पढ़कर आपको बहुत गुस्सा, डर, या उत्साह आए तो रुकें।</p>
+<p>UNICEF के अनुसार, <strong>Confirmation Bias</strong> (वह जानकारी जो हमारी पहले से बनी राय को सही साबित करे) और <strong>Herd Mentality</strong> (सब शेयर कर रहे हैं तो सच होगी) ये दो मनोवैज्ञानिक कारण हैं जिनकी वजह से हम फेक न्यूज के शिकार होते हैं।</p>
+<p><strong>सुनहरा नियम:</strong> शेयर करने से पहले 5 मिनट रुकें और जाँचें।</p>
+<hr>
+<h2>भारत के भरोसेमंद फैक्ट-चेक वेबसाइट्स और टूल्स</h2>
+<p>भारत में कई विश्वसनीय फैक्ट-चेकिंग संस्थाएं काम कर रही हैं। किसी भी वायरल खबर की सच्चाई जानने के लिए इनका उपयोग करें:</p>
+<div class="flex flex-col w-full overflow-hidden rounded-lg border border-gray-warm-4">
+<div class="flex flex-col flex-1 min-h-0 relative" dir="ltr">
+<div class="flex-1 w-full min-h-0" data-radix-scroll-area-viewport="">
+<div>
+<table class="w-full my-0">
+<thead>
+<tr class="group">
+<th class="py-2.5 px-4 border-r last:border-r-0 border-b border-gray-warm-4 text-sm text-left">संस्था</th>
+<th class="py-2.5 px-4 border-r last:border-r-0 border-b border-gray-warm-4 text-sm text-left">वेबसाइट</th>
+<th class="py-2.5 px-4 border-r last:border-r-0 border-b border-gray-warm-4 text-sm text-left">विशेषता</th>
+</tr>
+</thead>
+<tbody>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>PIB Fact Check</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">pib.gov.in/FAQ_facth.aspx</td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">सरकारी योजनाओं से जुड़ी फेक न्यूज</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>BOOM Live</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">boomlive.in</td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">राजनीति, स्वास्थ्य, सामाजिक मुद्दे</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>Alt News</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">altnews.in</td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">राजनीतिक दुष्प्रचार की जाँच</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>Vishvas News</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">vishvasnews.com</td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">हिंदी में फैक्ट-चेकिंग</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>India Today Fact Check</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">indiatoday.in/fact-check</td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">मुख्यधारा की खबरें</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>The Quint WebQoof</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">thequint.com/news/webqoof</td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">वायरल कंटेंट की जाँच</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>Newschecker</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">newschecker.in</td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">बहुभाषी फैक्ट-चेकिंग</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>Google Fact Check Explorer</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">toolbox.google.com/factcheck</td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">वैश्विक फैक्ट-चेक डेटाबेस</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<p><strong>PIB Fact Check WhatsApp नंबर:</strong> +91 8799711259 यहाँ आप किसी भी संदिग्ध सरकारी खबर को भेजकर उसकी सच्चाई जान सकते हैं।</p>
+<hr>
+<h2>वायरल फोटो और वीडियो जाँचने के बेस्ट टूल्स</h2>
+<div class="flex flex-col w-full overflow-hidden rounded-lg border border-gray-warm-4">
+<div class="flex flex-col flex-1 min-h-0 relative" dir="ltr">
+<div class="flex-1 w-full min-h-0" data-radix-scroll-area-viewport="">
+<div>
+<table class="w-full my-0">
+<thead>
+<tr class="group">
+<th class="py-2.5 px-4 border-r last:border-r-0 border-b border-gray-warm-4 text-sm text-left">टूल</th>
+<th class="py-2.5 px-4 border-r last:border-r-0 border-b border-gray-warm-4 text-sm text-left">उपयोग</th>
+</tr>
+</thead>
+<tbody>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>Google Reverse Image Search</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">तस्वीर का मूल स्रोत खोजें</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>TinEye.com</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">तस्वीर की पहली उपस्थिति खोजें</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>InVID Plugin</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">वीडियो मेटाडेटा और फ्रेम जाँचें</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>Amnesty YouTube Data Viewer</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">YouTube वीडियो की अपलोड तारीख</td>
+</tr>
+<tr class="group">
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm"><strong>Google Maps/Street View</strong></td>
+<td class="py-2 px-4 border-r last:border-r-0 border-b group-last:border-b-0 border-gray-warm-4 text-sm">वीडियो की लोकेशन वेरिफाई करें</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<h2>WhatsApp पर फेक न्यूज से कैसे बचें?</h2>
+<p>WhatsApp भारत में फेक न्यूज फैलाने का सबसे बड़ा माध्यम है। इससे बचने के लिए:</p>
+<ol>
+<li><strong>"Forwarded" लेबल देखें</strong> अगर मैसेज पर "Forwarded many times" लिखा है, तो सावधान रहें।</li>
+<li><strong>अनजान नंबरों से आई खबरें</strong> बिना जाँचे शेयर न करें।</li>
+<li><strong>ग्रुप में आई खबरें</strong> सिर्फ इसलिए सच नहीं होतीं क्योंकि परिवार या दोस्त ने भेजी है।</li>
+<li><strong>लिंक पर क्लिक करने से पहले</strong> URL ध्यान से पढ़ें।</li>
+<li>WhatsApp की <strong>"Fact Check" सुविधा</strong> का उपयोग करें संदिग्ध मैसेज को PIB Fact Check नंबर पर भेजें।</li>
+</ol>
+<hr>
+<h2>AI के युग में फेक न्यूज नई चुनौतियाँ</h2>
+<p>2026 में Artificial Intelligence ने फेक न्यूज की समस्या को एक नए स्तर पर पहुँचा दिया है:</p>
+<ul>
+<li><strong>AI-Generated Articles:</strong> AI अब इतने अच्छे लेख लिख सकता है कि उन्हें असली पत्रकारिता से अलग करना मुश्किल है।</li>
+<li><strong>Voice Cloning:</strong> सिर्फ 3 सेकंड की ऑडियो क्लिप से किसी की भी आवाज़ की नकल बनाई जा सकती है।</li>
+<li><strong>Deepfake Videos:</strong> किसी भी नेता, अभिनेता या आम इंसान का नकली वीडियो बनाया जा सकता है।</li>
+<li><strong>AI Bots:</strong> सोशल मीडिया पर एक ही झूठी खबर को बार-बार पोस्ट करने वाले AI बॉट्स।</li>
+</ul>
+<p><strong>UNICEF की चेतावनी:</strong> "Modern AI can create lifelike images, videos (deepfakes), audio and even write articles that seem like real news. AI-driven bots also can flood social media with the same false story over and over, making it look like everyone believes it."</p>
+<p>इससे बचने के लिए हमेशा <strong>मूल स्रोत</strong> तक जाएं और किसी भी वायरल कंटेंट को बिना जाँचे शेयर न करें।</p>
+<hr>
+<h2>फेक न्यूज शेयर करने के नुकसान</h2>
+<p>फर्जी खबरें शेयर करना सिर्फ एक गलती नहीं इसके गंभीर परिणाम हो सकते हैं:</p>
+<ul>
+<li><strong>सामाजिक नुकसान:</strong> सांप्रदायिक तनाव, दंगे और हिंसा।</li>
+<li><strong>व्यक्तिगत नुकसान:</strong> किसी की प्रतिष्ठा बर्बाद होना।</li>
+<li><strong>स्वास्थ्य नुकसान:</strong> गलत चिकित्सा जानकारी से जान का खतरा।</li>
+<li><strong>कानूनी नुकसान:</strong> भारत में IT Act की धारा 66D और 505 के तहत फेक न्यूज फैलाना दंडनीय अपराध है।</li>
+</ul>
+<hr>
+<h2>निष्कर्ष: जागरूक नागरिक बनें, फेक न्यूज रोकें</h2>
+<p>सोशल मीडिया के इस दौर में <strong>हर नागरिक एक पत्रकार है</strong> और हर पत्रकार की ज़िम्मेदारी है कि वह सच्चाई की जाँच करे।</p>
+<p>Free Press Unlimited के अनुसार: "Critical thinking remains the best defence. No tool can automatically determine whether something is true or false."</p>
+<p>याद रखें <strong>शेयर करने से पहले जाँचें।</strong> एक गलत खबर शेयर करने से आप अनजाने में किसी को नुकसान पहुँचा सकते हैं। लेकिन एक सही जाँच से आप समाज में सच्चाई की रक्षा कर सकते हैं।</p>
+<p><strong>आज ही इन कदमों को अपनाएं:</strong></p>
+<ul>
+<li>✅ PIB Fact Check का नंबर सेव करें: <strong>+91 8799711259</strong></li>
+<li>✅ BOOM Live, Alt News और Vishvas News को बुकमार्क करें।</li>
+<li>✅ Google Fact Check Explorer का उपयोग करना सीखें।</li>
+<li>✅ अपने परिवार और दोस्तों को भी यह गाइड शेयर करें।</li>
+</ul>
+<p><strong>क्योंकि सच्चाई की रक्षा करना हम सबकी ज़िम्मेदारी है।</strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>मराठवाड़ा सूखा घोषित 2026: महाराष्ट्र के 265 तालुकों में सूखा, मुख्यमंत्री फडणवीस की ऐतिहासिक घोषणा</title>
         <author>
@@ -1845,113 +2107,6 @@
 <p>दिल्ली SIR विवाद ने एक बार फिर यह साबित किया है कि <strong>चुनाव आयोग की स्वायत्तता और पारदर्शिता</strong> पर सवाल उठाना लोकतंत्र में ज़रूरी है। 47 लाख मतदाताओं के नाम हटाना और 33 लाख को नोटिस देना — यह प्रक्रिया तब तक संदिग्ध रहेगी, जब तक इसके मानदंड सार्वजनिक नहीं किए जाते।</p>
 <p>सुप्रीम कोर्ट की आज की सुनवाई से यह उम्मीद है कि अदालत <strong>मतदाताओं के अधिकारों की रक्षा</strong> के लिए ठोस निर्देश देगी। लोकतंत्र की असली ताकत उसके मतदाताओं में है — और उनकी आवाज़ को दबाया नहीं जाना चाहिए।</p>
 <p><strong>अगर आपका नाम भी मतदाता सूची से हटा दिया गया है, तो तुरंत अपने क्षेत्र के निर्वाचन अधिकारी से संपर्क करें या <a href="https://electoralsearch.eci.gov.in/" target="_blank" rel="noopener" class="font-bold bg-gray-warm-1 rounded-md py-0.5 px-1.5 no-underline">electoralsearch.eci.gov.in</a> पर अपना नाम जाँचें।</strong></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>युवा सेना कार्यकर्ताओं ने नाशिक अधिकारी की मेज पर छोड़े आवारा कुत्ते.</title>
-        <author>
-            <name>Sayyed Moinuddin</name>
-        </author>
-        <link href="https://elaannews.in/yuva-sena-ne-nashik-me-adhikari-ke-mej-par-chode-aavara-kutte/"/>
-        <id>https://elaannews.in/yuva-sena-ne-nashik-me-adhikari-ke-mej-par-chode-aavara-kutte/</id>
-        <media:content url="https://elaannews.in/media/posts/45/Screenshot-2026-09-17-140709.png" medium="image" />
-            <category term="महाराष्ट्र"/>
-
-        <updated>२०२६-०९-१७T१४:०८:५६+०५:३०</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://elaannews.in/media/posts/45/Screenshot-2026-09-17-140709.png" alt="युवा सेना कार्यकर्ताओं ने नाशिक अधिकारी की मेज पर छोड़े आवारा कुत्ते." />
-                    महाराष्ट्र के नाशिक जिले में आवारा कुत्तों की समस्या ने एक बार फिर सुर्खियाँ बटोरी हैं — लेकिन इस बार विरोध का&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://elaannews.in/media/posts/45/Screenshot-2026-09-17-140709.png" class="type:primaryImage" alt="युवा सेना कार्यकर्ताओं ने नाशिक अधिकारी की मेज पर छोड़े आवारा कुत्ते." /></p>
-                <p>महाराष्ट्र के नाशिक जिले में <strong>आवारा कुत्तों की समस्या</strong> ने एक बार फिर सुर्खियाँ बटोरी हैं — लेकिन इस बार विरोध का तरीका बिल्कुल अलग और अनोखा था। <strong>युवा सेना</strong> (शिव सेना UBT का युवा संगठन) के जिलाध्यक्ष <strong>विक्रम रांधवे</strong> ने 17 सितंबर 2026 को निफाड नगर पंचायत के मुख्य अधिकारी <strong>धीरज भामरे</strong> की मेज पर चार से पाँच आवारा कुत्ते छोड़ दिए। इतना ही नहीं, उन्होंने अधिकारी की मेज पर <strong>नोटों की माला</strong> भी सजाई — यह प्रशासन की कथित निष्क्रियता पर करारा तंज था।</p>
-<p>यह विरोध प्रदर्शन तब हुआ जब स्थानीय नागरिकों की बार-बार की शिकायतों के बावजूद प्रशासन ने <strong>आवारा कुत्तों की बढ़ती संख्या</strong> पर कोई ठोस कदम नहीं उठाया। इस घटना का वीडियो सोशल मीडिया पर वायरल हो गया और पूरे देश में चर्चा का विषय बन गया।</p>
-<hr>
-<h2>क्या हुआ निफाड नगर पंचायत कार्यालय में?</h2>
-<p>17 सितंबर 2026 की सुबह, युवा सेना जिलाध्यक्ष विक्रम रांधवे अपने समर्थकों के साथ निफाड नगर पंचायत कार्यालय पहुँचे। उनके साथ छोटे-छोटे बोरों में बंद <strong>चार से पाँच आवारा पिल्ले</strong> थे। कार्यालय में घुसते ही उन्होंने मुख्य अधिकारी धीरज भामरे की मेज पर इन पिल्लों को छोड़ दिया।</p>
-<h3>नोटों की माला — प्रशासन पर तीखा व्यंग्य</h3>
-<p>रांधवे ने मेज पर <strong>नोटों से बनी माला</strong> भी रखी। यह माला प्रशासन के उस खर्च पर व्यंग्य था, जो नगर पंचायत आवारा कुत्तों के नियंत्रण के नाम पर करती है — लेकिन जमीन पर कोई नतीजा नहीं दिखता। पिल्ले मेज पर छोड़े जाने के बाद घबराकर इधर-उधर भागने लगे, जिससे कार्यालय में अफरा-तफरी मच गई।</p>
-<h3>विरोध का कारण — बार-बार की शिकायतें, पर कोई सुनवाई नहीं</h3>
-<p>रांधवे ने बताया कि निफाड शहर और आसपास के इलाकों में <strong>आवारा कुत्तों की संख्या तेजी से बढ़ रही है</strong>। इन कुत्तों ने बच्चों, बुजुर्गों, महिलाओं और दोपहिया वाहन चालकों पर कई बार हमले किए हैं। नागरिकों ने बार-बार प्रशासन को ज्ञापन सौंपे, शिकायतें दर्ज कराईं — लेकिन कोई ठोस कार्रवाई नहीं हुई।</p>
-<hr>
-<h2>गणेशोत्सव में भी आवारा कुत्तों का आतंक</h2>
-<p>विक्रम रांधवे ने यह भी बताया कि <strong>गणेशोत्सव</strong> के दौरान आवारा कुत्तों के झुंड गणेश पंडालों के आसपास घूम रहे हैं, जिससे श्रद्धालुओं में भय का माहौल बन गया है। त्योहार के समय जब लाखों लोग पंडालों में दर्शन के लिए आते हैं, तब आवारा कुत्तों का यह आतंक और भी खतरनाक हो जाता है।</p>
-<p>उन्होंने प्रशासन से तत्काल माँग की:</p>
-<ul>
-<li><strong>नसबंदी अभियान</strong> (Sterilisation Drive) तुरंत शुरू किया जाए</li>
-<li><strong>डॉग-कैचिंग स्क्वाड</strong> का गठन किया जाए</li>
-<li><strong>जनसंख्या नियंत्रण कार्यक्रम</strong> को प्रभावी ढंग से लागू किया जाए</li>
-</ul>
-<hr>
-<h2>अधिकारी का जवाब — आश्वासन मिला, पर क्या होगा अमल?</h2>
-<p>विरोध प्रदर्शन के बाद मुख्य अधिकारी <strong>धीरज भामरे</strong> ने प्रदर्शनकारियों को आश्वासन दिया कि प्रशासन इस मुद्दे की तत्काल समीक्षा करेगा। उन्होंने कहा कि नगर पंचायत ने पहले से ही आवारा कुत्तों की नसबंदी के लिए कदम उठाए हैं और आगे भी और कदम उठाए जाएंगे।</p>
-<p>हालाँकि, रांधवे ने साफ चेतावनी दी — <strong>"अगर प्रशासन ने ठोस कार्रवाई नहीं की, तो हम फिर से यही विरोध करेंगे और इस बार नागरिकों की भारी भीड़ के साथ।"</strong></p>
-<hr>
-<h2>भारत में आवारा कुत्तों की समस्या — एक गंभीर राष्ट्रीय संकट</h2>
-<p>निफाड की यह घटना कोई अकेली नहीं है। <strong>भारत में आवारा कुत्तों की समस्या</strong> एक गंभीर राष्ट्रीय संकट बन चुकी है।</p>
-<h3>चौंकाने वाले आँकड़े</h3>
-<ul>
-<li><strong>2024 में भारत में 37 लाख से अधिक</strong> कुत्ते के काटने के मामले दर्ज हुए, जिनमें से 54 लोगों की रेबीज से मौत हुई <em>(PubMed, 2024)</em></li>
-<li><strong>महाराष्ट्र में हर साल 8.6 लाख</strong> से अधिक डॉग बाइट के मामले सामने आते हैं</li>
-<li><strong>मुंबई में हर 5 मिनट में एक व्यक्ति</strong> आवारा कुत्ते के काटने का शिकार होता है</li>
-<li><strong>भारत में दुनिया के 36% रेबीज मौतें</strong> होती हैं <em>(Wikipedia)</em></li>
-<li>अगस्त 2026 में महाराष्ट्र के <strong>कल्याण में 24 घंटे में 161 लोगों</strong> को आवारा कुत्तों ने काटा</li>
-</ul>
-<h3>महाराष्ट्र में बढ़ता संकट</h3>
-<p>महाराष्ट्र में यह समस्या विशेष रूप से गंभीर है। कल्याण-डोंबिवली, नाशिक, पुणे और मुंबई जैसे शहरों में नगर निगम <strong>लाखों रुपये नसबंदी और टीकाकरण</strong> पर खर्च करते हैं, लेकिन जमीनी स्तर पर स्थिति नहीं सुधरती। स्थानीय नागरिक बार-बार सवाल उठाते हैं — <strong>"पैसा कहाँ जाता है?"</strong></p>
-<hr>
-<h2>यह पहली बार नहीं — देशभर में हो रहे हैं ऐसे अनोखे विरोध</h2>
-<p>निफाड की यह घटना देश में इस तरह के <strong>अनोखे विरोध प्रदर्शनों</strong> की एक कड़ी है।</p>
-<h3> मध्यप्रदेश के खंडवा में भी हुआ था ऐसा विरोध</h3>
-<p>पिछले महीने मध्यप्रदेश के <strong>खंडवा</strong> में एक व्यक्ति ने <strong>कुत्ते का मुखौटा</strong> पहनकर सार्वजनिक सुनवाई में भाग लिया। खंडवा नगर निगम में विपक्ष के नेता दीपक "मुल्लू" राठौर ने यह प्रदर्शन नगर निगम के <strong>आवारा कुत्ता नसबंदी अभियान में कथित अनियमितताओं</strong> को उजागर करने के लिए किया था। इसके बाद अधिकारियों ने जाँच समिति बनाने का आश्वासन दिया।</p>
-<h3> क्यों हो रहे हैं ऐसे विरोध?</h3>
-<p>जब सामान्य शिकायतें, ज्ञापन और बैठकें बेकार साबित होती हैं, तो नागरिक और राजनीतिक कार्यकर्ता <strong>असाधारण तरीकों</strong> का सहारा लेते हैं। ये विरोध प्रदर्शन मीडिया का ध्यान खींचते हैं और प्रशासन को तत्काल जवाब देने पर मजबूर करते हैं।</p>
-<hr>
-<h2> युवा सेना का यह कदम — सही या गलत?</h2>
-<p>इस विरोध प्रदर्शन पर समाज में मिली-जुली प्रतिक्रियाएँ आई हैं।</p>
-<p><strong>समर्थन में तर्क:</strong></p>
-<ul>
-<li>यह विरोध <strong>शांतिपूर्ण</strong> था और किसी को नुकसान नहीं पहुँचाया</li>
-<li>इसने <strong>प्रशासन की नींद</strong> खोली और मीडिया का ध्यान खींचा</li>
-<li>जब सामान्य रास्ते बंद हो जाएँ, तो <strong>रचनात्मक विरोध</strong> जरूरी हो जाता है</li>
-</ul>
-<p><strong>आलोचना में तर्क:</strong></p>
-<ul>
-<li>कुछ लोगों का मानना है कि <strong>जानवरों का इस्तेमाल</strong> विरोध के लिए उचित नहीं</li>
-<li>बेहतर होता कि <strong>कानूनी और संस्थागत रास्ते</strong> अपनाए जाते</li>
-<li>इससे <strong>कार्यालय में अव्यवस्था</strong> फैली</li>
-</ul>
-<p>Times of India के एक पोल में जब पूछा गया — <em>"क्या आप युवा सेना के इस विरोध के तरीके का समर्थन करते हैं?"</em> — तो <strong>हजारों पाठकों</strong> ने अपनी राय दी, जो इस मुद्दे की व्यापक सामाजिक चिंता को दर्शाता है।</p>
-<hr>
-<h2> आवारा कुत्तों की समस्या का स्थायी समाधान क्या है?</h2>
-<p>सिर्फ विरोध प्रदर्शन से समस्या हल नहीं होगी। विशेषज्ञों और नागरिक संगठनों के अनुसार, इस समस्या के <strong>स्थायी समाधान</strong> के लिए निम्नलिखित कदम जरूरी हैं:</p>
-<h3> 1. प्रभावी ABC (Animal Birth Control) कार्यक्रम</h3>
-<p><strong>नसबंदी और टीकाकरण</strong> अभियान को पारदर्शी और नियमित रूप से चलाया जाए। नगर पालिकाओं को इसकी <strong>ऑडिट रिपोर्ट</strong> सार्वजनिक करनी चाहिए।</p>
-<h3> 2. कचरा प्रबंधन में सुधार</h3>
-<p>आवारा कुत्तों की बढ़ती संख्या का एक बड़ा कारण <strong>खुले में फेंका जाने वाला कचरा</strong> है। बेहतर कचरा प्रबंधन से कुत्तों को भोजन का स्रोत कम होगा।</p>
-<h3> 3. डॉग शेल्टर और रेस्क्यू सेंटर</h3>
-<p>शहरों में <strong>पर्याप्त संख्या में पशु आश्रय</strong> बनाए जाएँ, जहाँ आक्रामक या बीमार कुत्तों को रखा जा सके।</p>
-<h3> 4. जन जागरूकता अभियान</h3>
-<p>नागरिकों को <strong>कुत्तों के साथ व्यवहार</strong> और काटने पर तत्काल उपचार के बारे में जागरूक किया जाए।</p>
-<hr>
-<h2> प्रशासन की जिम्मेदारी — जवाबदेही जरूरी है</h2>
-<p>निफाड की यह घटना एक बड़ा सवाल उठाती है — <strong>क्या नगर पालिकाएँ अपनी जिम्मेदारी निभा रही हैं?</strong></p>
-<p>रांधवे ने सही कहा — <em>"लोग अब आश्वासन नहीं, कार्रवाई चाहते हैं।"</em> जब एक आम नागरिक बार-बार शिकायत करने के बाद भी सुरक्षित महसूस नहीं करता, तो उसका गुस्सा स्वाभाविक है। प्रशासन को चाहिए कि वह:</p>
-<ul>
-<li><strong>शिकायतों पर समयबद्ध कार्रवाई</strong> करे</li>
-<li><strong>नसबंदी अभियान की प्रगति</strong> सार्वजनिक करे</li>
-<li><strong>डॉग-कैचिंग टीमों</strong> को 24×7 सक्रिय रखे</li>
-<li><strong>जवाबदेही तय</strong> करे — अगर काम नहीं हुआ तो जिम्मेदार कौन?</li>
-</ul>
-<hr>
-<h2>निष्कर्ष (Conclusion)</h2>
-<p>नाशिक के निफाड में युवा सेना का यह <strong>अनोखा विरोध प्रदर्शन</strong> सिर्फ एक राजनीतिक घटना नहीं है — यह उस <strong>आम नागरिक की पीड़ा</strong> की आवाज है, जो रोज आवारा कुत्तों के डर में जीता है। जब बच्चे स्कूल जाने से डरें, बुजुर्ग सुबह की सैर छोड़ दें और महिलाएँ घर से निकलने में हिचकिचाएँ — तो यह सिर्फ एक नागरिक समस्या नहीं, बल्कि <strong>प्रशासनिक विफलता</strong> का प्रमाण है।</p>
-<p><strong>युवा सेना का यह कदम</strong> चाहे विवादास्पद हो, लेकिन इसने एक बार फिर साबित किया कि जब सिस्टम नहीं सुनता, तो जनता अपनी आवाज उठाने के नए तरीके खोज लेती है।</p>
-<p>अब देखना यह है कि <strong>मुख्य अधिकारी धीरज भामरे</strong> का आश्वासन महज एक और वादा बनकर रह जाता है, या इस बार निफाड के नागरिकों को वाकई राहत मिलती है।</p>
             ]]>
         </content>
     </entry>
