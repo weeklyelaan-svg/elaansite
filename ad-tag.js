@@ -11,7 +11,7 @@
 
   var CAMPAIGNS = [
   {
-    "id": "ad_bulk_1792235482824_1_owwx",
+    "id": "ad_bulk_1792241032630_1_tz2z",
     "name": "Lifelong Trike Cycle for Kids 2-5 Years - Tricycle for Boys & Girls",
     "advertiser": "Amazone.in",
     "format": "responsive_native",
@@ -42,7 +42,7 @@
     "createdAt": "2026-10-17"
   },
   {
-    "id": "ad_bulk_1792235482824_2_5r5i",
+    "id": "ad_bulk_1792241032630_2_n1i0",
     "name": "Min 80% Off on Libas",
     "advertiser": "Myntra",
     "format": "responsive_native",
@@ -70,7 +70,7 @@
     "createdAt": "2026-10-17"
   },
   {
-    "id": "ad_bulk_1792235482824_3_oa2b",
+    "id": "ad_bulk_1792241032630_3_yjsf",
     "name": "Flat 70% Off on Levis Jeans",
     "advertiser": "Flipkart",
     "format": "rectangle_300x250",
@@ -100,7 +100,7 @@
     "createdAt": "2026-10-17"
   },
   {
-    "id": "ad_bulk_1792235482824_4_pder",
+    "id": "ad_bulk_1792241032630_4_19y7",
     "name": "Best Offers on Electronics, Mobiles & More",
     "advertiser": "Flipkart",
     "format": "responsive_native",
@@ -130,7 +130,7 @@
     "createdAt": "2026-10-17"
   },
   {
-    "id": "ad_bulk_1792235482824_5_8tth",
+    "id": "ad_bulk_1792241032630_5_k7px",
     "name": "AJIO sandle",
     "advertiser": "AJIO",
     "format": "rectangle_300x250",
@@ -160,8 +160,8 @@
     "createdAt": "2026-10-17"
   }
 ];
-  var ALLOWED_DOMAINS = ["elaannews.in"];
-  var BLOCK_UNLISTED = false;
+  var ALLOWED_DOMAINS = ["kundalinirahasya.in","elaannews.in"];
+  var BLOCK_UNLISTED = true;
   var DEBOUNCE_SEC = 15;
   var DEFAULT_RANDOMIZE = true;
   var DEFAULT_FALLBACK_ALL = true;
